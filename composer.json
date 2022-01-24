@@ -1,0 +1,22 @@
+{
+  "name": "rus0/rappi-php-ecommerce-sdk",
+  "type": "library",
+  "description": "Rappi Ecommerce SDK",
+  "homepage": "https://github.com/Rus0/rappi-php-ecommerce-sdk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rus0",
+      "email": "andonid88@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {"Rappi\\": "src/"}
+  }
+}

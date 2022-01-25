@@ -17,5 +17,6 @@
   },
   "autoload": {
     "psr-4": {"Rappi\\": "src/"}
-  }
+  },
+  "version": "1.0.1"
 }
